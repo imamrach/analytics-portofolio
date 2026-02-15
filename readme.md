@@ -1,6 +1,5 @@
-**Hello folks!
+Hello folks!
 I'm Imam Rachmadiansyah, and introducing myself as:
-**
 
 Senior Analytics with 7+ years of experience driving measurable business impact across consumer electronics and telecom industries. Has delivered IDR 2.1T+ in revenue uplift, IDR 54Bn+ in cost savings, and led analytics initiatives supporting nationwide GTM, sales performance, and digital transformation programs.
 
